@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Avengers</string>
+    <string name="log_in">log in</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="sign_up_registor">Sign Up/Registor</string>
+    <string name="preference_file_name">avengers preferences</string>
+</resources>
